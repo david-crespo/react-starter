@@ -1,10 +1,10 @@
 # React starter kit with Parcel
 
-The simplest possible way to get started with React. Using [Parcel](https://parceljs.org/) gets you a dev server with hot reloading of JS and SASS.
+A simple way to get started with React. Using [Parcel](https://parceljs.org/) gets you a dev server with hot reloading of JS and CSS.
 
 ### Get started
 
-1. `npm install` to install Parcel, React, and Sass (only needs to be done the first time)
+1. `npm install` to install Parcel and React (only needs to be done the first time)
 1. `npm start` to build everything, watch for changes, and run the site
 1. Go to http://localhost:1234 to see your site
 
@@ -26,4 +26,4 @@ The starting point is `src/index.html`. See how it refers to JS and SCSS files b
 
 Because Parcel is doing all the work, the only configuration needed here is the definition of `build` and `start` in `package.json`.
 
-Note that this is Parcel 2, which is still in beta. Documentation [here](https://v2.parceljs.org/).
+Note that this is Parcel 2. Documentation [here](https://v2.parceljs.org/).
